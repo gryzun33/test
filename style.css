@@ -1,0 +1,37 @@
+.outer {
+  width: 500px;
+  height: 500px;
+  background-image: #aaa;
+  font-size: 24px;
+  /* user-select: none; */
+  
+}
+
+.inner {
+  /* font-size: 4em; */
+  /* font-style: italic; */
+  /* font-style: oblique; */
+  /* position:relative; */
+  /* font-style: unset; */
+  padding: 10px 20px; margin: 30px; border: 5px solid #040;
+
+}
+
+
+.inner-inner {
+  color: yellow;
+
+}
+
+#innerblue {
+  color: blue;
+}
+
+
+p {
+  color: green;
+}
+
+.inner-inner {
+  color: yellow;
+}
