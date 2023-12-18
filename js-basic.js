@@ -27,3 +27,4 @@ console.log(elem.firstChild);
 // document.body.insertAdjacentHTML('afterend', '<div>ggggg</div>');
 // 222222
 // 33333
+fffff;
