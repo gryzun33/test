@@ -28,3 +28,4 @@ console.log(elem.firstChild);
 // 222222
 // 33333
 fffff;
+fff;
